@@ -44,4 +44,5 @@ fun main() {
     val input = readInput("Day00")
     measureTime {
         part1(input).println()
-    }.println()}
+    }.println()
+}
