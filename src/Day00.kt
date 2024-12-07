@@ -12,6 +12,8 @@ fun main() {
     check(part1(testInput) == 11L)
 //    check(part2(testInput) == 1L)
 
+    // clear any global variables
+
     val input = readInput("Day00")
     part1(input).println()
     part2(input).println()
